@@ -2,6 +2,73 @@
 
 ## Main (unreleased)
 
+## v265 (2024/01/22)
+
+- Ruby 3.2.3 is now available
+
+## v264 (2023/12/25)
+
+- Ruby 3.3.0 is now available
+
+## v263 (2023/12/11)
+
+- Ruby 3.3.0-rc1 is now available (https://github.com/heroku/heroku-buildpack-ruby/pull/1411)
+- Fix BUILDPACK_VENDOR_URL support (https://github.com/heroku/heroku-buildpack-ruby/pull/1406)
+
+## v262 (2023/11/08)
+
+- Warn when relying on default Node.js or Yarn versions (https://github.com/heroku/heroku-buildpack-ruby/pull/1401)
+- Warn when default Node.js or Yarn versions change (https://github.com/heroku/heroku-buildpack-ruby/pull/1401)
+
+## v261 (2023/11/02)
+
+- JRuby 9.4.5.0 is now available
+- JRuby 9.3.13.0 is now available
+- Default Node.js version now 20.9.0
+
+## v260 (2023/10/23)
+
+- JRuby 9.4.4.0 is now available
+
+## v259 (2023/10/02)
+
+- Ruby 3.3.0-preview2 is now available
+
+## v258 (2023/09/26)
+
+- No changes
+
+## v257 (2023/09/20)
+
+- JRuby 9.3.11.0 is now available
+
+## v256 (2023/08/04)
+
+- Fix Ruby 2.5.7 download on Heroku-20
+
+## v255 (2023/07/24)
+
+- JRuby 9.4.3.0 is now available
+- JRuby 9.4.2.0 is now available
+
+## v254 (2023/05/12)
+
+- Default Ruby version is now 3.1.4
+- Ruby 3.3.0-preview1 is now available
+
+## v253 (2023/03/31)
+
+- Ruby versions 2.7.8, 3.0.6, 3.1.4, 3.2.2 are now available
+
+## v252 (2023/02/08)
+
+* Ruby 3.2.1 is now available
+* JRuby 9.4.1.0 is now available
+
+## v251 (2023/02/03)
+
+* Jruby 9.3.10.0 is available
+
 ## v250 (2022/12/25)
 
 * Ruby 3.2.0 is available
